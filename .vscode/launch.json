@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: LNCS",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\LNCS.csproj",
+            "launchConfigurationId": "TargetFramework=;LNCS"
+        }
+    ]
+}

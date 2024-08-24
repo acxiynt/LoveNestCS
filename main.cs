@@ -138,9 +138,6 @@ internal class C
             if(e!=null)
             {
             line=e+line+".wav";
-            #if DEBUG
-            Console.WriteLine(line);
-            #endif
             }
             else
             {
@@ -148,9 +145,6 @@ internal class C
             }
             isvocaled=true;
             vocalPath=D.Vocal()+line;
-            #if DEBUG
-            Console.WriteLine(vocalPath);
-            #endif
             line=a.ReadLine();
         }
         else if(line.Contains("dialogdisablevocal"))
@@ -187,7 +181,7 @@ internal class C
     }
    public static void ReadArray(string[] c)
     {
-    int dialogSpeed = 300;int dialogDelay = 1;string soundPath = null;string vocalPath = null;bool issounded=false;bool isvocaled=false;
+    int dialogSpeed = 300;int dialogDelay = 1;string soundPath = null;string vocalPath = null;bool issounded=false;bool isvocaled=false;string e=null;
     for(int x=0;x<c.Length;x++)
     {
     string d=c[x];
@@ -239,7 +233,9 @@ internal class C
         }
         else if(d.Contains("dialogvocaled"))
         {
-            x++;d=c[x];d=d+".wav";
+            x++;d=c[x];
+            d=e+d+".wav";
+            d+="\\";
             isvocaled=true;
             vocalPath=D.Vocal()+d;
             continue;
@@ -249,6 +245,19 @@ internal class C
             isvocaled=false;
             vocalPath=null;
             continue;
+        }
+        else if(d.Contains("dialogvocalpath"))
+        {
+            e="\\";x++;d=c[x];
+            while(!d.Contains("end"))
+            {
+                e+=d+"\\";
+                x++;d=c[x];
+            }
+            x++;d=c[x];
+            #if DEBUG
+            Console.WriteLine(e);
+            #endif
         }
     }
     return;
@@ -344,7 +353,7 @@ internal class E
                 string[] c={"这是个测试对话","DEBUG特有"};
                 C.ReadArray(c);
                 #endif
-                DEBUG.ReadArrayDebug(b);
+                C.ReadArray(b);
                 if (action=="头")
                 {
                 break;
@@ -366,7 +375,11 @@ internal class E
     public static string[] Start()
     {
     Console.OutputEncoding = Encoding.Unicode;
+    #if DEBUG
+    C.ReadFile(D.Dialog()+"StartDebug");
+    #else
     C.ReadFile(D.Dialog()+"Start");
+    #endif
     C.ReadFile(D.Dialog()+"Actions");
     string[] scene=GetAction();
     StartMainRoom(scene);
@@ -403,9 +416,9 @@ internal class E
             #if DEBUG
             DEBUG.ReadArrayDebug(c);
             Console.WriteLine(b);
+            d.Select(i => $"{i.Key}: {i.Value}").ToList().ForEach(Console.WriteLine);
             #endif
             b="";c=[];
-            d.Select(i => $"{i.Key}: {i.Value}").ToList().ForEach(Console.WriteLine);
         }
         else
         {

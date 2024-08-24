@@ -10,13 +10,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LNCS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd86d67ef245b82d810e0c8d60613e2135929247")]
-[assembly: System.Reflection.AssemblyProductAttribute("LNCS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LNCS")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.2.255")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370d998383f7eb6daec0e5850573fff03a4d9d24")]
+[assembly: System.Reflection.AssemblyProductAttribute("Love Nest C#[DEBUG]")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LNCS[DEBUG]")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.2.255")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
