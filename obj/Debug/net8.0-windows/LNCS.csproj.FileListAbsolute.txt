@@ -1,0 +1,15 @@
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.AssemblyInfoInputs.cache
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.AssemblyInfo.cs
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.csproj.CoreCompileInputs.cache
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.sourcelink.json
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\bin\Debug\net8.0-windows\LNCS.exe
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\bin\Debug\net8.0-windows\LNCS.deps.json
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\bin\Debug\net8.0-windows\LNCS.runtimeconfig.json
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\bin\Debug\net8.0-windows\LNCS.dll
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\bin\Debug\net8.0-windows\LNCS.pdb
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.dll
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\refint\LNCS.dll
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.pdb
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\LNCS.genruntimeconfig.cache
+C:\Users\yuanj\Desktop\游戏\cstest\LoveNestCS\obj\Debug\net8.0-windows\ref\LNCS.dll
