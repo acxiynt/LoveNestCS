@@ -234,8 +234,11 @@ internal class C
         else if(d.Contains("dialogvocaled"))
         {
             x++;d=c[x];
+            if(e!=null)
+            {
             d=e+d+".wav";
-            d+="\\";
+            }
+            else{d+="\\";}
             isvocaled=true;
             vocalPath=D.Vocal()+d;
             continue;
@@ -254,10 +257,10 @@ internal class C
                 e+=d+"\\";
                 x++;d=c[x];
             }
-            x++;d=c[x];
             #if DEBUG
             Console.WriteLine(e);
             #endif
+            continue;
         }
     }
     return;
