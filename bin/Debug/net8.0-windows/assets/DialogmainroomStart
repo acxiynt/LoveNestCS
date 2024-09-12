@@ -4,6 +4,7 @@ Start
 end
 dialogspeed
 350
+clear
 (身体...没法活动...好奇怪的感觉)
 dialogspeed
 250
@@ -41,6 +42,7 @@ dialogspeed
 200
 dialogdelay
 0
+clear
 可以摸：
 
 蝴蝶结头饰

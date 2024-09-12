@@ -1,0 +1,15 @@
+DialogStart
+DialogActions
+input
+case
+开始
+DialogmainroomStart
+stop
+case
+退出
+DialogQuit
+exit
+stop
+case
+戳一下
+stop

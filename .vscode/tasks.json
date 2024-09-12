@@ -22,6 +22,19 @@
                 "Release"
             ],
             "problemMatcher": "$msCompile"
-        }        
+        },
+        {
+            "label": "Publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/LNCS.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary",
+                "--self-contained"
+            ],
+            "problemMatcher": "$msCompile"
+        },
     ]
 }

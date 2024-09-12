@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\assets\\dialogactions||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:assets\\dialogactions||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\assets\\dialogmainroomstart||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:assets\\dialogmainroomstart||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|c:\\users\\yuanj\\desktop\\\u6E38\u620F\\cstest\\lovenestcs\\assets\\dialogmainroom2||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D380906-994C-41FE-A519-B8AD604717C3}|LNCS.csproj|solutionrelative:assets\\dialogmainroom2||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.cs",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\app.cs",
+              "RelativeDocumentMoniker": "app.cs",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\app.cs",
+              "RelativeToolTip": "app.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:22:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\app.cs",
+              "RelativeDocumentMoniker": "app.cs",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\app.cs [Design]",
+              "RelativeToolTip": "app.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:39:22.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogActions",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\DialogActions",
+              "RelativeDocumentMoniker": "assets\\DialogActions",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\DialogActions",
+              "RelativeToolTip": "assets\\DialogActions",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T00:43:41.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogmainroomStart",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\DialogmainroomStart",
+              "RelativeDocumentMoniker": "assets\\DialogmainroomStart",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\DialogmainroomStart",
+              "RelativeToolTip": "assets\\DialogmainroomStart",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T00:04:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dialogmainroom2",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\Dialogmainroom2",
+              "RelativeDocumentMoniker": "assets\\Dialogmainroom2",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\assets\\Dialogmainroom2",
+              "RelativeToolTip": "assets\\Dialogmainroom2",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T00:03:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\main.cs",
+              "RelativeDocumentMoniker": "main.cs",
+              "ToolTip": "C:\\Users\\yuanj\\Desktop\\\u6E38\u620F\\cstest\\LoveNestCS\\main.cs",
+              "RelativeToolTip": "main.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAAOgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:26:50.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

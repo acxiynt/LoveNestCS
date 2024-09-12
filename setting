@@ -1,0 +1,9 @@
+case
+DEBUG
+maxline
+10000
+stop
+interval
+200
+delay
+2
