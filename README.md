@@ -5,7 +5,7 @@ This project is a completely open-sourced, and the assets(including the icon) ar
 If involved copyright, please contact me via gmail (3059872@gmail.com) and I'll delete this project<br />
 currently working on<br />
 Winform remake<br />
-i underestimated the difficulty of doing the winform remake of this project, it will take a long time to put all the stuff in<br />
+%50 completed<br />
 # 爱之巢CS版
 由b站 莲花池池 制作的病娇游戏"爱之巢"的c#重置版<br />
 链接: space.bilibili.com/760048<br />
