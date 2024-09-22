@@ -389,3 +389,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.vs/LNCS/DesignTimeBuild/.dtbcache.v2
+.vs/LNCS/FileContentIndex/2d1d393f-89dc-4387-96a5-dfcb8a3f9bc7.vsidx
+.vs/LNCS/FileContentIndex/7d0bc28f-8a2f-40c7-a8cc-bca2c8f8c000.vsidx
+.vs/LNCS/FileContentIndex/0221245c-5487-4847-9ca5-60ee8c33407d.vsidx
+.vs/LNCS/FileContentIndex/898755c7-098b-4cbe-815a-e7645eae9255.vsidx
+.vs/LNCS/FileContentIndex/cdb6be0b-0ca6-4171-bb19-a9366860c6ac.vsidx
+.vs/LNCS/v17/.futdcache.v2
+.vs/LNCS/v17/.suo
+.vs/LNCS/v17/DocumentLayout.backup.json
+.vs/LNCS/v17/DocumentLayout.json
+.vs/ProjectEvaluation/lncs.metadata.v9.bin
+.vs/ProjectEvaluation/lncs.projects.v9.bin
+.vs/ProjectEvaluation/lncs.strings.v9.bin
